@@ -14,4 +14,4 @@ Technologies: React.js, CSS.
 
 # ------------ IMPORTANT --------------- #
 
-The interface is written in Hebrew. I am sorry from advance if you can't understand it.
+The interface is written in Hebrew. I am sorry in advance if you can't understand it.
