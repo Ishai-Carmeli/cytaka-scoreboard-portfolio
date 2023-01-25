@@ -2,7 +2,7 @@ Hello🙂
 
 # Welcome the "Cytaka Scoreboard" project #
 
-Thanks for steping by.
+Thanks for stopping by.
 
 This project is one of my freelance ones. I worked with a company which called "Cytaka".
 The company is running national cyber competitions. I was asked to design and develop
